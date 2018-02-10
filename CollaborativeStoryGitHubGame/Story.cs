@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace CollaborativeStoryGitHubGame
 {
-    class Program
+    class Story
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Once upon a time, ");
+
         }
     }
 }
